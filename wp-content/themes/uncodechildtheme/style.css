@@ -22,3 +22,10 @@ Text Domain:	 Uncode-child
     url('fonts/3A6B75_0_0.woff') format('woff'),
     url('fonts/3A6B75_0_0.ttf') format('truetype');
 }
+
+.hero-header {
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 300px;
+    color: #fefc00;
+}
