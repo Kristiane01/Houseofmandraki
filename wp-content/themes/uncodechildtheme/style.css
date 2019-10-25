@@ -11,7 +11,14 @@ Text Domain:	 Uncode-child
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
-@font-face{
-    font-family: 'ArsisD';
-    src: url('fonts/URW\ -\ ArsisD-Reg.otf');
-    }
+@import url("//hello.myfonts.net/count/3a6b75");
+
+  
+@font-face {
+    font-family: 'ArsisD-Reg';
+    src: url('fonts/3A6B75_0_0.eot');
+    src: url('fonts/3A6B75_0_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/3A6B75_0_0.woff2') format('woff2'),
+    url('fonts/3A6B75_0_0.woff') format('woff'),
+    url('fonts/3A6B75_0_0.ttf') format('truetype');
+}
