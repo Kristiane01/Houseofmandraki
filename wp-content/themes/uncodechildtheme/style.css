@@ -11,3 +11,7 @@ Text Domain:	 Uncode-child
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
+@font-face{
+    font-family: 'ArsisD';
+    src: url('fonts/URW\ -\ ArsisD-Reg.otf');
+    }
